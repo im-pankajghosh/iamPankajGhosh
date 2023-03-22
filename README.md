@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/iam_pankajghosh" target="blank"><img src="https://img.shields.io/twitter/follow/iam_pankajghosh?logo=twitter&style=for-the-badge" alt="iam_pankajghosh" /></a> </p>
 
-- 🔭 I’m currently working on **Portfolio v0.2.0**
+- 🔭 I’m currently working on **Portfolio v2**
 
 - 🌱 I’m currently learning **React JS**
 
